@@ -103,7 +103,13 @@ Build a **robust foundation** by setting up **WSL** and **Ubuntu** on your Windo
 
 ## 🛠️ Essential Dev Tools
 
+To unzip compessed files
+
 To build high-quality software, install these **essential tools**:
+
+```bash
+sudo apt install unzip
+```
 
 ```bash
 sudo apt-get install wget ca-certificates curl
